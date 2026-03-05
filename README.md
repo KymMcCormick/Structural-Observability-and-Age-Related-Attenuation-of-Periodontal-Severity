@@ -1,0 +1,2 @@
+# Structural-Observability-and-Age-Related-Attenuation-of-Periodontal-Severity
+Simulation code and analysis scripts for "Structural Observability and Age-Related Attenuation of Periodontal Severity" (McCormick, Guzzo, Amarasena, Jamieson). Contains a Monte Carlo simulation framework demonstrating how severity-dependent tooth loss distorts cross-sectional age–severity trajectories, and survey-weighted analysis code. 
